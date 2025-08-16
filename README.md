@@ -5,6 +5,11 @@ Interactive data analysis and visual report on Ireland’s housing crisis (2012�
 Overview
 As a student preparing to move to Ireland, I first encountered the severity of the housing crisis while searching for accommodation for myself. This personal experience sparked a deeper curiosity to investigate the Irish housing market, eventually shaping this into a data analysis project. The aim was to explore housing trends, affordability, and regional disparities using publicly available datasets and my own compiled master dataset.  
 
+**This is a 3 part project**
+1. Data Analysis and creation of the master dataset
+2. Tableau Dashboard *(linked under)*
+3. Visual infographic report *(attached in repository)*
+
 You can: - 
 - Explore dataset on Kaggle → (https://www.kaggle.com/datasets/divynahs01sharma/irish-housing-market-analysis ) 
 - View full source code on GitHub → (this repo)
